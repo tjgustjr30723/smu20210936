@@ -4,7 +4,7 @@ int main(void)
 {
 	int arr1[6] = { 1, 2, 3, 4, 5, 6 };
 	int arr2[6] = { 7, 8, 9, 10, 11, 12 };
-	int temp1, temp2;
+	int temp1;
 
 	printf("arr1 :");
 	for (int i = 0; i < 6; i++)
